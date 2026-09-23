@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a first year engineer at ENSI . <br>I'm interested in AI, Cloud & DevOps, and Data Analysis.<br>I have skills in Python and SQL .
+i'm a second year engineer at ENSI . <br>I'm interested in AI, Cloud & DevOps, and Data Analysis.<br>I have skills in Python and SQL .
 
 
 ## 🌐 Socials:
